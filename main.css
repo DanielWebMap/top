@@ -4,7 +4,7 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #bad6e5;
+    background-color: #cde2ea;
     max-width: 1280px;
     margin: auto;
 }
@@ -27,6 +27,7 @@ main {
     border-left: 1px dashed rgb(44, 44, 44);
     border-right: 1px dashed rgb(44, 44, 44);
     border-bottom: 1px dashed rgb(44, 44, 44);
+    background-color: white;
 }
 
 article {
