@@ -57,6 +57,13 @@ article figure>img {
     margin: auto;
 }
 
+nav a {
+    background-color: #e6f2f8;
+    padding: 0.5em; 
+    margin: 1em;
+    border-radius: 5px;
+}
+
 footer {
     text-align: center;
     padding: 1em 2em 3em 2em;
