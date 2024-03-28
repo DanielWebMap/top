@@ -6,4 +6,4 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 
 var marker = L.circleMarker([63.5321038, -19.511292], { color: '#252850', fillColor: '#38caff', fillOpacity: '0.6' }).addTo(map);
-marker.bindPopup("<b>Skógafoss</b><br>Highlight in Island <br> GPS: 63.5321038 -19.511292").openPopup();
+marker.bindPopup("<b>Skógafoss </b><br>Highlight in Island <br> GPS: 63.5321038 -19.511292").openPopup(); 
